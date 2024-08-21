@@ -1,2 +1,3 @@
-New line
-This is a NEW.md file
+My first file - NEW.md.
+New line.
+It's work!
